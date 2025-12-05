@@ -1,0 +1,17 @@
+# Environments
+.env
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# App Data
+storage/
+temp_pdf/
+*.pdf
+
+# IDE settings
+.vscode/
+.idea/
